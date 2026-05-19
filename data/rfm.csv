@@ -1,0 +1,796 @@
+customer_name,recency,frequency,monetary,profit,r_score,f_score,m_score,rfm_score,segment
+Aaron Bergman,17,37,24646,4683.208,3,4,5,12,Loyal Customers
+Aaron Hawkins,13,34,20759,2450.92904,4,3,5,12,Loyal Customers
+Aaron Smayling,24,31,14207,369.1618,2,2,3,7,At Risk
+Adam Bellavance,36,41,20189,4979.9769,2,5,5,12,At Risk
+Adam Hart,3,42,21720,1902.03342,5,5,5,15,Champions
+Adam Shillingsburg,16,36,15445,1421.27412,3,4,3,10,Loyal Customers
+Adrian Barton,28,40,25125,6417.2845,2,5,5,12,At Risk
+Adrian Hane,22,26,11406,2081.37928,3,1,1,5,Lost
+Adrian Shami,42,24,11287,1564.4938,1,1,1,3,Lost
+Aimee Bixby,36,28,16205,2926.3543,2,1,3,6,Lost
+Alan Barnes,14,35,13053,2436.066,3,4,2,9,Lost
+Alan Dominguez,6,30,18538,1539.9922000000001,5,2,4,11,Lost
+Alan Haines,50,34,15281,-592.24612,1,3,3,7,At Risk
+Alan Hwang,7,38,23641,4342.37078,4,5,5,14,Champions
+Alan Schoenberger,3,35,21837,2503.6348,5,4,5,14,Champions
+Alan Shonely,13,36,10692,1175.45416,4,4,1,9,Lost
+Alejandro Ballentine,6,39,15463,758.6139,5,5,3,13,Loyal Customers
+Alejandro Grove,14,33,13419,2602.57212,3,3,2,8,Lost
+Alejandro Savely,19,43,21124,2533.56606,3,5,5,13,Loyal Customers
+Aleksandra Gannaway,3,30,14715,773.1465999999999,5,2,3,10,Lost
+Alex Avila,3,26,15993,983.2565,5,1,3,9,Lost
+Alex Grayson,3,36,15071,1006.97208,5,4,3,12,Loyal Customers
+Alex Russell,30,35,16469,2290.6598,2,4,4,10,At Risk
+Alice McCarthy,16,39,18765,2977.8523999999998,3,5,4,12,Loyal Customers
+Allen Armold,7,31,6537,754.9193999999999,4,2,1,7,New Customers
+Allen Goldenen,113,23,8928,447.265,1,1,1,3,Lost
+Allen Rosenblatt,55,28,9529,-552.28182,1,1,1,3,Lost
+Alyssa Crouse,7,33,12296,444.03550000000007,4,3,2,9,Lost
+Alyssa Tate,13,36,14945,2795.5313,4,4,3,11,Loyal Customers
+Amy Cox,6,26,17155,3980.4112,5,1,4,10,Lost
+Amy Hunt,71,24,9202,718.3349800000001,1,1,1,3,Lost
+Andrew Allen,126,25,19758,2071.08818,1,1,4,6,Lost
+Andrew Gjertsen,49,40,16381,2642.21386,1,5,4,10,At Risk
+Andrew Roberts,15,39,16914,3561.75886,3,5,4,12,Loyal Customers
+Andy Gerbode,13,27,11339,169.3896999999999,4,1,1,6,New Customers
+Andy Reiter,7,23,8545,3139.0833,4,1,1,6,New Customers
+Andy Yotov,15,27,8542,2290.97634,3,1,1,5,Lost
+Anemone Ratner,3,27,11492,1994.65032,5,1,1,7,New Customers
+Angele Hood,22,31,11357,1610.0721,3,2,1,6,Lost
+Ann Blume,8,27,18727,1870.0106999999998,4,1,4,9,Lost
+Ann Chong,7,36,15027,880.12778,4,4,3,11,Loyal Customers
+Ann Steele,34,30,11818,2091.0534,2,2,2,6,At Risk
+Anna Andreadi,29,47,17312,2443.093,2,5,4,11,At Risk
+Anna Chung,3,25,8932,-272.12732000000005,5,1,1,7,New Customers
+Anna Gayman,48,31,15392,923.0617000000001,1,2,3,6,At Risk
+Anna Häberlin,31,36,18093,2466.01172,2,4,4,10,At Risk
+Anne McFarland,26,36,25522,3238.5851,2,4,5,11,At Risk
+Anne Pryor,38,26,16360,2992.7651,1,1,3,5,Lost
+Annie Thurman,3,34,13385,2659.7779,5,3,2,10,Lost
+Annie Zypern,27,28,11871,924.3602999999999,2,1,2,5,Lost
+Anthony Garverick,29,35,11687,175.3065,2,4,2,8,At Risk
+Anthony Jacobs,2,37,17757,1172.2402000000002,5,4,4,13,Champions
+Anthony Johnson,37,32,12284,2478.5824000000002,2,3,2,7,At Risk
+Anthony O'Donnell,8,32,15025,1093.0996000000002,4,3,3,10,Loyal Customers
+Anthony Rawles,23,45,17339,3117.6468,3,5,4,12,Loyal Customers
+Anthony Witt,17,32,15143,1216.4120200000002,3,3,3,9,Loyal Customers
+Arianne Irving,14,26,9281,1538.1774,3,1,1,5,Lost
+Art Ferguson,6,45,28183,2278.3037,5,5,5,15,Champions
+Art Foster,54,37,20064,2971.2347800000002,1,4,5,10,At Risk
+Arthur Gainer,24,33,19871,1733.2471600000001,2,3,4,9,At Risk
+Arthur Prichep,77,37,18546,3137.6156,1,4,4,9,At Risk
+Arthur Wiediger,36,28,11016,2680.9669599999997,2,1,1,4,Lost
+Ashley Jarboe,29,36,15949,3006.7032,2,4,3,9,At Risk
+Astrea Jones,49,27,13259,2531.3579799999998,1,1,2,4,Lost
+Barbara Fisher,23,30,9838,1833.7316,3,2,1,6,Lost
+Barry Blumstein,15,37,9883,299.4246,3,4,1,8,Lost
+Barry Franz,9,27,24082,1115.67056,4,1,5,10,Lost
+Barry Französisch,16,31,13206,940.1213,3,2,2,7,Lost
+Barry Gonzalez,29,34,20023,1530.1779999999999,2,3,5,10,At Risk
+Barry Pond,6,30,10389,2090.96176,5,2,1,8,New Customers
+Barry Weirich,23,23,17440,3695.4033000000004,3,1,4,8,Lost
+Bart Folk,26,27,13942,2084.5089000000003,2,1,2,5,Lost
+Bart Pistole,3,38,10087,984.2587,5,5,1,11,Lost
+Bart Watters,55,45,32315,3595.8858999999998,1,5,5,11,At Risk
+Becky Castell,30,34,15186,2485.9604,2,3,3,8,At Risk
+Becky Martin,9,35,27173,-1096.9254,4,4,5,13,Champions
+Becky Pak,33,30,14811,3576.20716,2,2,3,7,At Risk
+Ben Ferrer,17,37,23219,4135.10114,3,4,5,12,Loyal Customers
+Ben Peterman,2,38,16809,1343.95582,5,5,4,14,Champions
+Ben Wallace,41,33,14965,2352.20638,1,3,3,7,At Risk
+Benjamin Farhat,27,32,13370,641.3188,2,3,2,7,At Risk
+Benjamin Patterson,40,31,18714,912.2121000000001,1,2,4,7,At Risk
+Benjamin Venier,45,25,21366,2819.7504,1,1,5,7,Lost
+Berenike Kampe,27,33,13586,2447.6789599999997,2,3,2,7,At Risk
+Beth Fritzler,7,30,10588,661.45284,4,2,1,7,New Customers
+Beth Paige,13,33,12827,1958.09908,4,3,2,9,Lost
+Beth Thompson,29,34,11631,863.9258,2,3,2,7,At Risk
+Bill Donatelli,6,38,15276,1622.6797,5,5,3,13,Loyal Customers
+Bill Eplett,36,42,28480,7410.0053,2,5,5,12,At Risk
+Bill Overfelt,22,26,8093,415.21970000000005,3,1,1,5,Lost
+Bill Shonely,1,31,23511,5968.90736,5,2,5,12,Lost
+Bill Stewart,29,28,18776,1815.0301,2,1,4,7,Lost
+Bill Tyler,29,28,11798,2544.9303,2,1,2,5,Lost
+Bobby Elias,22,37,18411,3789.15606,3,4,4,11,Loyal Customers
+Bobby Odegard,2,29,15029,2556.82472,5,2,3,10,Lost
+Bobby Trafton,52,31,10400,-469.7911000000001,1,2,1,4,At Risk
+Brad Eason,4,29,18986,978.0241,5,2,4,11,Lost
+Brad Norvell,12,36,26200,2124.05298,4,4,5,13,Champions
+Brad Thomas,31,38,11683,939.62794,2,5,2,9,At Risk
+Bradley Drucker,20,30,13142,2381.066,3,2,2,7,Lost
+Bradley Nguyen,10,31,12878,2544.06892,4,2,2,8,New Customers
+Bradley Talbott,34,32,15343,1453.6353,2,3,3,8,At Risk
+Brenda Bowman,29,31,16007,1738.84688,2,2,3,7,At Risk
+Brendan Dodson,8,24,10920,2024.7037400000002,4,1,1,6,New Customers
+Brendan Murry,35,34,12055,282.13467999999995,2,3,2,7,At Risk
+Brendan Sweed,36,28,12179,2045.68872,2,1,2,5,Lost
+Brian Dahlen,98,24,9890,1425.66744,1,1,1,3,Lost
+Brian DeCherney,50,36,10772,984.42392,1,4,1,6,At Risk
+Brian Derr,10,34,16917,2792.3093000000003,4,3,4,11,Loyal Customers
+Brian Moss,34,32,17459,4385.84518,2,3,4,9,At Risk
+Brian Stugart,30,31,22573,3612.8758,2,2,5,9,At Risk
+Brian Thompson,19,26,14896,1795.5495,3,1,3,7,Lost
+Brooke Gillingham,10,24,11213,417.31988,4,1,1,6,New Customers
+Brosina Hoffman,24,41,28120,4876.9398,2,5,5,12,At Risk
+Bruce Degenhardt,5,43,15959,2475.1561,5,5,3,13,Loyal Customers
+Bruce Geld,7,28,15381,1426.6284000000003,4,1,3,8,Lost
+Bruce Stewart,2,34,19234,496.95910000000015,5,3,4,12,Loyal Customers
+Bryan Davis,36,31,13571,1528.27026,2,2,2,6,At Risk
+Bryan Mills,3,45,20689,2512.6168,5,5,5,15,Champions
+Bryan Spruell,10,30,17253,2783.2074000000002,4,2,4,10,Lost
+Candace McMahon,41,28,14798,-2798.7906,1,1,3,5,Lost
+Cari MacIntyre,7,37,21608,2484.686,4,4,5,13,Champions
+Cari Sayre,16,34,22067,2915.3282,3,3,5,11,Loyal Customers
+Cari Schnelling,51,30,12179,1319.8943199999999,1,2,2,5,At Risk
+Carl Jackson,14,29,13972,1957.42696,3,2,3,8,Lost
+Carl Ludwig,14,40,18180,-164.26294000000013,3,5,4,12,Loyal Customers
+Carl Weiss,9,29,14357,3007.3994,4,2,3,9,Lost
+Carlos Daly,3,31,20117,5028.9094,5,2,5,12,Lost
+Carlos Meador,37,25,10148,2206.362,2,1,1,4,Lost
+Carlos Soltero,26,36,14936,-1000.07596,2,4,3,9,At Risk
+Carol Adams,19,34,23993,3279.0813,3,3,5,11,Loyal Customers
+Carol Darley,2,30,13232,1880.35726,5,2,2,9,New Customers
+Carol Triggs,29,29,14139,2437.80334,2,2,3,7,At Risk
+Caroline Jumper,34,29,19582,2417.592,2,2,4,8,At Risk
+Cassandra Brandow,10,30,13529,208.82850000000005,4,2,2,8,New Customers
+Catherine Glotzbach,22,24,4116,-246.83939999999998,3,1,1,5,Lost
+Cathy Armstrong,14,25,12293,1869.7699,3,1,2,6,Lost
+Cathy Hwang,90,29,15667,2671.50966,1,2,3,6,At Risk
+Cathy Prescott,70,33,19770,1750.5737,1,3,4,8,At Risk
+Chad Cunningham,52,30,12522,2622.6274399999998,1,2,2,5,At Risk
+Chad McGuire,9,23,16566,2442.3472,4,1,4,9,Lost
+Chad Sievert,12,26,12348,-4.067100000000101,4,1,2,7,New Customers
+Charles Crestani,83,30,13350,1307.7991,1,2,2,5,At Risk
+Charles McCrossin,27,31,20156,746.68682,2,2,5,9,At Risk
+Charles Sheldon,58,34,20050,4328.5768,1,3,5,9,At Risk
+Charlotte Melton,1,29,12827,117.79151999999998,5,2,2,9,New Customers
+Chloris Kastensmidt,5,43,14572,965.81294,5,5,3,13,Loyal Customers
+Chris Cortes,21,44,11483,2505.8885999999998,3,5,1,9,Lost
+Chris McAfee,43,27,11621,1887.6977,1,1,2,4,Lost
+Chris Selesnick,3,34,14418,2602.5059,5,3,3,11,Loyal Customers
+Christina Anderson,35,38,21835,3662.118,2,5,5,12,At Risk
+Christina DeMoss,13,31,17986,2591.7817800000003,4,2,4,10,Lost
+Christina VanderZanden,40,29,10327,605.33728,1,2,1,4,At Risk
+Christine Abelman,14,26,7803,867.15866,3,1,1,5,Lost
+Christine Kargatis,1,35,13055,1380.71322,5,4,2,11,Lost
+Christine Phan,9,34,25157,1748.2813800000001,4,3,5,12,Loyal Customers
+Christine Sundaresam,7,40,10546,-1.151800000000037,4,5,1,10,Lost
+Christopher Conant,7,39,35187,5603.3337,4,5,5,14,Champions
+Christopher Martinez,38,29,22460,3010.03432,1,2,5,8,At Risk
+Christopher Schild,2,28,12516,2080.04256,5,1,2,8,New Customers
+Christy Brittain,27,27,13938,2087.0836600000002,2,1,2,5,Lost
+Chuck Clark,1,31,15040,2940.51086,5,2,3,10,Lost
+Chuck Magee,16,29,13715,1476.65568,3,2,2,7,Lost
+Chuck Sachs,7,31,22759,2943.10958,4,2,5,11,Lost
+Cindy Chapman,17,37,20866,4034.85446,3,4,5,12,Loyal Customers
+Cindy Schnelling,3,33,12775,188.87189999999993,5,3,2,10,Lost
+Cindy Stewart,28,23,13432,-6151.558099999999,2,1,2,5,Lost
+Claire Gute,29,25,14662,2566.57842,2,1,3,6,Lost
+Claudia Bergmann,8,29,18261,2167.21744,4,2,4,10,Lost
+Clay Cheatham,28,30,9345,1524.5489400000001,2,2,1,5,At Risk
+Clay Ludtke,6,36,19784,1323.4289800000001,5,4,4,13,Champions
+Clay Rozendal,23,25,11759,1945.9958,3,1,2,6,Lost
+Clytie Kelty,44,36,17141,2373.63598,1,4,4,9,At Risk
+Corey Catlett,17,32,17604,3003.011,3,3,4,10,Loyal Customers
+Corey Roper,44,37,22354,2345.12208,1,4,5,10,At Risk
+Corey-Lock,5,30,13049,1196.03996,5,2,2,9,New Customers
+Corinna Mitchell,28,30,15580,-955.0624199999999,2,2,3,7,At Risk
+Craig Carreira,17,34,11497,-280.98170000000005,3,3,1,7,Lost
+Craig Carroll,55,25,16815,2249.8603000000003,1,1,4,6,Lost
+Craig Leslie,9,35,19378,2670.3287,4,4,4,12,Champions
+Craig Molinari,42,26,11230,1210.3413,1,1,1,3,Lost
+Craig Reiter,6,35,20848,1435.4373600000001,5,4,5,14,Champions
+Craig Yedwab,61,35,14220,1542.243,1,4,3,8,At Risk
+Cyma Kinney,38,38,10596,525.3842999999999,1,5,1,7,At Risk
+Cynthia Arntzen,94,30,19834,3891.2644999999998,1,2,4,7,At Risk
+Cynthia Delaney,77,32,14500,2154.3026999999997,1,3,3,7,At Risk
+Cynthia Voltz,5,27,14857,1910.1065,5,1,3,9,Lost
+Cyra Reiten,56,32,15657,3312.72046,1,3,3,7,At Risk
+Damala Kotsonis,22,43,20961,2917.8505,3,5,5,13,Loyal Customers
+Dan Campbell,35,38,13439,-70.48979999999997,2,5,2,9,At Risk
+Dan Lawera,58,41,12690,426.03500000000014,1,5,2,8,At Risk
+Dan Reichenbach,4,40,16705,1984.3986000000002,5,5,4,14,Champions
+Dana Kaydos,46,28,19638,1363.56276,1,1,4,6,Lost
+Daniel Byrd,3,35,15392,1656.9395000000002,5,4,3,12,Loyal Customers
+Daniel Lacy,38,28,12201,1108.44,1,1,2,4,Lost
+Daniel Raglin,28,41,27932,6103.97292,2,5,5,12,At Risk
+Dario Medina,13,41,22297,2306.92722,4,5,5,14,Champions
+Darren Budd,58,15,9681,586.9649,1,1,1,3,Lost
+Darren Koutras,2,36,14903,1287.9167,5,4,3,12,Loyal Customers
+Darren Powers,15,41,15980,-517.4512,3,5,3,11,Loyal Customers
+Darrin Martin,3,36,17733,1991.7519,5,4,4,13,Champions
+Darrin Sayre,49,32,13283,1487.6673999999998,1,3,2,6,At Risk
+Darrin Van Huff,20,37,22749,616.32492,3,4,5,12,Loyal Customers
+Dave Brooks,9,34,25550,3652.3608600000002,4,3,5,12,Loyal Customers
+Dave Hallsten,76,35,16191,1681.8685,1,4,3,8,At Risk
+Dave Kipp,9,39,19456,4080.5637,4,5,4,13,Champions
+Dave Poirier,7,31,25901,4600.1323,4,2,5,11,Lost
+David Bremer,6,20,6275,-2270.6965800000003,5,1,1,7,New Customers
+David Flashing,10,22,11540,363.0722000000001,4,1,1,6,New Customers
+David Kendrick,11,36,17559,2179.1376999999998,4,4,4,12,Champions
+David Philippe,8,31,23730,834.5305200000001,4,2,5,11,Lost
+David Smith,15,33,13634,1713.4145,3,3,2,8,Lost
+David Wiener,7,30,10930,1739.0983,4,2,1,7,New Customers
+Dean Braden,8,34,14132,1425.8078,4,3,3,10,Loyal Customers
+Dean Katz,2,37,10652,1007.098,5,4,1,10,Lost
+Dean percer,19,35,22833,3959.16412,3,4,5,12,Loyal Customers
+Deanra Eno,20,30,12799,1735.4974,3,2,2,7,Lost
+Deborah Brumfield,10,27,12578,1640.2389,4,1,2,7,New Customers
+Debra Catini,19,27,16972,865.3341,3,1,4,8,Lost
+Deirdre Greer,15,34,16715,2374.3181,3,3,4,10,Loyal Customers
+Delfina Latchford,19,33,20252,2798.5357,3,3,5,11,Loyal Customers
+Denise Leinenbach,13,37,17936,2747.4922,4,4,4,12,Champions
+Denise Monton,3,33,22051,-2597.8029,5,3,5,13,Loyal Customers
+Dennis Bolton,48,30,10610,1922.71686,1,2,1,4,At Risk
+Dennis Kane,5,36,20103,2965.5079,5,4,5,14,Champions
+Dennis Pardue,1,33,11661,2688.1890000000003,5,3,2,10,Lost
+Denny Blanton,29,28,16634,1958.55586,2,1,4,7,Lost
+Denny Joy,2,32,22561,3255.39614,5,3,5,13,Loyal Customers
+Denny Ordway,37,42,18797,4137.6354,2,5,4,11,At Risk
+Dianna Arnett,14,29,15248,-297.8313399999999,3,2,3,8,Lost
+Dianna Vittorini,14,25,16951,3342.72258,3,1,4,8,Lost
+Dianna Wilson,56,35,23456,5029.0892,1,4,5,10,At Risk
+Dionis Lloyd,23,32,16648,1560.868,3,3,4,10,Loyal Customers
+Don Jones,7,38,21395,4310.462,4,5,5,14,Champions
+Don Miller,36,25,11836,-273.4155199999999,2,1,2,5,Lost
+Don Weiss,13,24,14384,425.7092,4,1,3,8,Lost
+Dorothy Badders,6,25,10384,1242.2766,5,1,1,7,New Customers
+Dorothy Dickinson,42,32,11071,1399.6512,1,3,1,5,At Risk
+Dorothy Wardle,6,41,12606,870.557,5,5,2,12,Lost
+Dorris liebe,6,30,14720,1851.7062,5,2,3,10,Lost
+Doug Bickford,28,32,12855,2967.6800000000003,2,3,2,7,At Risk
+Doug Jacobs,13,33,13852,2675.7544000000003,4,3,2,9,Lost
+Doug O'Connell,27,30,13772,1816.73452,2,2,2,6,At Risk
+Duane Benoit,13,23,13604,1417.79834,4,1,2,7,New Customers
+Duane Huffman,21,29,12477,2151.1435,3,2,2,7,Lost
+Duane Noonan,13,29,14915,233.54249999999996,4,2,3,9,Lost
+Ed Braxton,49,33,15525,1488.6075999999998,1,3,3,7,At Risk
+Ed Jacobs,50,30,10699,1209.9476,1,2,1,4,At Risk
+Ed Ludwig,27,34,14209,1155.5394000000001,2,3,3,8,At Risk
+Edward Becker,33,26,9428,1487.154,2,1,1,4,Lost
+Edward Hooks,3,38,21272,671.1933999999999,5,5,5,15,Champions
+Edward Nazzal,15,28,7072,237.69949999999997,3,1,1,5,Lost
+Eileen Kiefer,45,23,7124,765.4778000000001,1,1,1,3,Lost
+Eleni McCrary,59,29,14584,1897.36954,1,2,3,6,At Risk
+Elizabeth Moffitt,56,32,14508,1988.0723600000001,1,3,3,7,At Risk
+Ellis Ballard,3,31,21986,5848.74774,5,2,5,12,Lost
+Elpida Rittenbach,54,26,17131,2585.7182000000003,1,1,4,6,Lost
+Emily Burns,16,24,7037,20.558200000000028,3,1,1,5,Lost
+Emily Ducich,16,39,18549,2572.4465,3,5,4,12,Loyal Customers
+Emily Grady,23,32,23114,2604.2372800000003,3,3,5,11,Loyal Customers
+Emily Phan,13,36,16770,2103.96474,4,4,4,12,Champions
+Eric Barreto,8,27,11967,2091.7421,4,1,2,7,New Customers
+Eric Hoffmann,58,36,10351,2250.05482,1,4,1,6,At Risk
+Eric Murdock,3,45,28085,3306.01548,5,5,5,15,Champions
+Erica Bern,1,41,16119,3030.7344,5,5,3,13,Loyal Customers
+Erica Hackney,34,32,9481,1556.9195,2,3,1,6,At Risk
+Erica Hernandez,3,35,13008,794.6513,5,4,2,11,Lost
+Erica Smith,1,39,14719,3127.37644,5,5,3,13,Loyal Customers
+Erin Ashbrook,94,34,11521,868.06012,1,3,1,5,At Risk
+Erin Creighton,54,26,6731,831.7727,1,1,1,3,Lost
+Erin Mull,17,26,15321,3939.46018,3,1,3,7,Lost
+Erin Smith,29,33,18160,2175.2919,2,3,4,9,At Risk
+Eudokia Martin,9,26,13723,1764.7839,4,1,2,7,New Customers
+Eugene Barchas,21,34,16085,2893.6639,3,3,3,9,Loyal Customers
+Eugene Hildebrand,23,44,22424,1660.3308200000001,3,5,5,13,Loyal Customers
+Eugene Moren,25,36,23411,3624.25176,2,4,5,11,At Risk
+Eva Jacobs,23,28,14957,2794.5691,3,1,3,7,Lost
+Evan Bailliet,20,29,8006,565.6232,3,2,1,6,Lost
+Evan Henry,68,37,16377,2281.5105200000003,1,4,3,8,At Risk
+Evan Minnotte,42,27,19672,3647.45576,1,1,4,6,Lost
+Filia McAdams,8,37,17287,1394.0246,4,4,4,12,Champions
+Frank Atkinson,23,35,14350,1496.1937,3,4,3,10,Loyal Customers
+Frank Carlisle,43,29,12410,2780.7909999999997,1,2,2,5,At Risk
+Frank Gastineau,35,27,9704,1034.1122,2,1,1,4,Lost
+Frank Hawley,5,28,13686,3547.5756,5,1,2,8,New Customers
+Frank Merwin,3,38,16388,2601.29072,5,5,4,14,Champions
+Frank Olsen,23,47,17775,3023.7504,3,5,4,12,Loyal Customers
+Frank Preis,24,34,10760,937.1935000000001,2,3,1,6,At Risk
+Fred Chung,108,27,9323,1496.69624,1,1,1,3,Lost
+Fred Harton,2,23,10766,2888.03482,5,1,1,7,New Customers
+Fred Hopkins,2,39,30404,4609.29112,5,5,5,15,Champions
+Fred McMath,2,27,7441,1015.5115,5,1,1,7,New Customers
+Fred Wasserman,1,34,18194,1683.7903999999999,5,3,4,12,Loyal Customers
+Gary Hansen,21,45,15269,613.8054799999999,3,5,3,11,Loyal Customers
+Gary Hwang,19,41,24629,3908.1151000000004,3,5,5,13,Loyal Customers
+Gary McGarr,2,34,16518,1665.0138799999997,5,3,4,12,Loyal Customers
+Gary Mitchum,17,21,11011,2872.1064,3,1,1,5,Lost
+Gary Zandusky,8,43,24700,3742.4389,4,5,5,14,Champions
+Gene Hale,52,25,15488,2295.9524,1,1,3,5,Lost
+Gene McClure,105,28,11003,1553.25212,1,1,1,3,Lost
+George Ashbrook,23,31,13806,792.3443199999999,3,2,2,7,Lost
+George Bell,34,30,12183,656.2901,2,2,2,6,At Risk
+George Zrebassa,31,30,15294,4105.5978000000005,2,2,3,7,At Risk
+Georgia Rosenberg,50,30,13850,496.27974,1,2,2,5,At Risk
+Giulietta Baptist,14,30,12570,1633.26568,3,2,2,7,Lost
+Giulietta Dortch,6,33,18705,1888.1499,5,3,4,12,Loyal Customers
+Giulietta Weimer,15,33,18071,1199.0592,3,3,4,10,Loyal Customers
+Grace Kelly,13,28,19982,3495.2934,4,1,5,10,Lost
+Grant Thornton,10,27,20226,-3577.92306,4,1,5,10,Lost
+Greg Guthrie,34,33,13901,1523.52326,2,3,2,7,At Risk
+Greg Hansen,2,38,13997,1584.66962,5,5,3,13,Loyal Customers
+Greg Matthias,2,37,13600,-1337.92006,5,4,2,11,Lost
+Greg Maxwell,48,26,15355,-11.358500000000213,1,1,3,5,Lost
+Greg Tran,9,34,35552,5214.13118,4,3,5,12,Loyal Customers
+Guy Armstrong,3,28,10285,771.9774,5,1,1,7,New Customers
+Guy Phonely,2,33,15403,1250.1096,5,3,3,11,Loyal Customers
+Guy Thornton,1,31,9061,784.1793200000001,5,2,1,8,New Customers
+Hallie Redmond,14,26,15680,1705.2724,3,1,3,7,Lost
+Harold Dahlen,43,36,20070,2631.1922,1,4,5,10,At Risk
+Harold Engle,7,35,10993,1710.43802,4,4,1,9,Lost
+Harold Pawlan,31,29,8517,880.2212,2,2,1,5,At Risk
+Harold Ryan,52,24,10034,1456.03576,1,1,1,3,Lost
+Harry Greene,13,39,24217,-291.4922799999999,4,5,5,14,Champions
+Harry Marie,2,41,28477,6958.2864,5,5,5,15,Champions
+Heather Jas,6,38,15435,2618.261,5,5,3,13,Loyal Customers
+Heather Kirkland,44,33,15541,2494.9302000000002,1,3,3,7,At Risk
+Helen Abelman,14,28,16930,-761.6941599999999,3,1,4,8,Lost
+Helen Andreada,21,31,10414,1561.1586,3,2,1,6,Lost
+Helen Wasserman,35,35,18372,2555.1131,2,4,4,10,At Risk
+Henia Zydlo,36,28,12487,741.4829,2,1,2,5,Lost
+Henry Goldwyn,24,39,17168,-1597.5109,2,5,4,11,At Risk
+Henry MacAllister,26,34,17128,2673.3391,2,3,4,9,At Risk
+Herbert Flentye,15,36,11813,-653.1279,3,4,2,9,Lost
+Hilary Holden,55,27,15229,2432.32402,1,1,3,5,Lost
+Hunter Glantz,7,36,16214,1532.9159,4,4,3,11,Loyal Customers
+Hunter Lopez,31,24,30246,7816.567779999999,2,1,5,8,Lost
+Ionia McGrath,16,22,9480,2447.97986,3,1,1,5,Lost
+Irene Maddox,41,34,19919,-680.30418,1,3,4,8,At Risk
+Ivan Gibson,2,37,16151,1911.16818,5,4,3,12,Loyal Customers
+Ivan Liston,117,32,12853,1181.07276,1,3,2,6,At Risk
+Jack Garza,6,28,15708,-922.2610199999999,5,1,3,9,Lost
+Jack Lebron,9,40,18673,1040.1775400000001,4,5,4,13,Champions
+Jack O'Briant,6,29,13348,3045.2555,5,2,2,9,New Customers
+James Galang,2,40,21554,4549.1004,5,5,5,15,Champions
+James Lanier,7,32,14847,1701.17116,4,3,3,10,Loyal Customers
+Jamie Frazer,7,36,20576,1722.6054,4,4,5,13,Champions
+Jamie Kunitz,62,29,12533,2763.7822,1,2,2,5,At Risk
+Jane Waco,13,40,30288,6265.8457,4,5,5,14,Champions
+Janet Lee,2,28,20479,4730.68904,5,1,5,11,Lost
+Janet Martin,7,29,18017,1664.65432,4,2,4,10,Lost
+Janet Molinari,38,33,16168,2780.094,1,3,3,7,At Risk
+Jas O'Carroll,15,25,8819,1905.7893000000001,3,1,1,5,Lost
+Jason Fortune-,57,32,22817,2692.5273,1,3,5,9,At Risk
+Jason Gross,3,29,13570,2254.6355,5,2,2,9,New Customers
+Jason Klamczynski,78,31,17200,2022.38702,1,2,4,7,At Risk
+Jasper Cacioppo,35,35,18443,337.791,2,4,4,10,At Risk
+Jay Fein,14,31,10818,-1874.6750000000002,3,2,1,6,Lost
+Jay Kimmel,2,33,13401,1550.04784,5,3,2,10,Lost
+Jenna Caffey,9,34,16161,1304.56232,4,3,3,10,Loyal Customers
+Jennifer Braxton,8,41,15258,2451.8621,4,5,3,12,Loyal Customers
+Jennifer Ferguson,3,34,22947,2666.84548,5,3,5,13,Loyal Customers
+Jennifer Halladay,6,40,12692,1590.6942000000001,5,5,2,12,Lost
+Jennifer Jackson,20,25,12191,1022.6992,3,1,2,6,Lost
+Jennifer Patt,37,36,14212,2079.42932,2,4,3,9,At Risk
+Jeremy Ellison,28,30,6818,1318.1717,2,2,1,5,At Risk
+Jeremy Farry,5,37,10722,1200.10256,5,4,1,10,Lost
+Jeremy Lonsdale,31,25,11362,1186.2773,2,1,1,4,Lost
+Jeremy Pistek,9,30,18659,3170.16016,4,2,4,10,Lost
+Jessica Myrick,15,25,7789,1358.9265,3,1,1,5,Lost
+Jesus Ocampo,13,28,8209,582.7569,4,1,1,6,New Customers
+Jill Fjeld,2,35,23621,4877.68546,5,4,5,14,Champions
+Jill Matthias,1,29,14181,1716.7324,5,2,3,10,Lost
+Jill Stevenson,6,24,10142,-161.19349999999997,5,1,1,7,New Customers
+Jim Epp,43,32,13952,1371.9133000000002,1,3,3,7,At Risk
+Jim Karlsson,2,35,17121,3976.3415999999997,5,4,4,13,Champions
+Jim Kriz,1,30,13071,2754.2758,5,2,2,9,New Customers
+Jim Mitchum,9,42,19899,1798.53406,4,5,4,13,Champions
+Jim Radford,13,26,15925,-760.4169000000002,4,1,3,8,Lost
+Jim Sink,41,31,16281,2350.4863,1,2,3,6,At Risk
+Jocasta Rupert,8,24,11242,932.5277600000001,4,1,1,6,New Customers
+Joe Elijah,10,43,22452,3620.8885,4,5,5,14,Champions
+Joe Kamberova,49,40,26689,4373.5003,1,5,5,11,At Risk
+Joel Eaton,33,42,21905,1528.78066,2,5,5,12,At Risk
+Joel Jenkins,3,34,19993,1848.98628,5,3,5,13,Loyal Customers
+John Castell,2,30,12298,1858.38624,5,2,2,9,New Customers
+John Dryer,16,29,11591,-1198.71274,3,2,2,7,Lost
+John Grady,1,40,22219,3280.7801,5,5,5,15,Champions
+John Huston,14,38,25947,5395.8237,3,5,5,13,Loyal Customers
+John Lee,22,37,25979,2393.002,3,4,5,12,Loyal Customers
+John Lucas,45,26,10503,354.24659999999994,1,1,1,3,Lost
+John Murray,69,35,22386,2318.1149,1,4,5,10,At Risk
+John Stevenson,12,26,12189,491.3969000000001,4,1,2,7,New Customers
+Jonathan Doherty,3,38,19481,1726.7910200000001,5,5,4,14,Champions
+Jonathan Howell,41,40,16544,705.0602,1,5,4,10,At Risk
+Joni Blumstein,10,27,13339,1130.50616,4,1,2,7,New Customers
+Joni Sundaresam,6,28,6809,11.973400000000069,5,1,1,7,New Customers
+Joni Wasserman,6,32,10949,657.1068,5,3,1,9,Lost
+Joseph Airdo,1,32,18169,842.3299999999999,5,3,4,12,Loyal Customers
+Joseph Holt,12,45,20939,386.67820000000006,4,5,5,14,Champions
+Joy Bell-,2,39,24011,2867.92322,5,5,5,15,Champions
+Joy Daniels,43,32,11346,-604.4102,1,3,1,5,At Risk
+Joy Smith,22,36,20793,-103.00052000000001,3,4,5,12,Loyal Customers
+Julia Barnett,1,34,17087,249.04518000000016,5,3,4,12,Loyal Customers
+Julia Dunbar,66,28,11228,564.90306,1,1,1,3,Lost
+Julia West,2,29,20598,2950.0157,5,2,5,12,Lost
+Juliana Krohn,9,38,23136,1798.2473400000001,4,5,5,14,Champions
+Julie Creighton,58,34,14996,-1889.1059200000002,1,3,3,7,At Risk
+Julie Kriz,98,32,15648,1894.19924,1,3,3,7,At Risk
+Julie Prescott,27,42,14594,3479.0402,2,5,3,10,At Risk
+Justin Deggeller,1,34,23618,2625.31888,5,3,5,13,Loyal Customers
+Justin Ellison,21,28,12910,2928.30396,3,1,2,6,Lost
+Justin Hirsh,28,40,23918,3994.6644,2,5,5,12,At Risk
+Justin MacKendrick,13,33,9027,1519.795,4,3,1,8,Lost
+Justin Ritter,19,27,13625,2884.286,3,1,2,6,Lost
+Kalyca Meade,1,21,8643,369.5323,5,1,1,7,New Customers
+Karen Bern,5,34,11846,2319.0706,5,3,2,10,Lost
+Karen Carlisle,45,35,10416,1979.5,1,4,1,6,At Risk
+Karen Daniels,37,30,24018,2890.6947000000005,2,2,5,9,At Risk
+Karen Ferguson,33,30,18267,2385.1931,2,2,4,8,At Risk
+Karen Seio,36,25,5325,1113.68218,2,1,1,4,Lost
+Karl Braun,3,40,17494,1785.86258,5,5,4,14,Champions
+Katharine Harms,17,39,18414,3611.0256,3,5,4,12,Loyal Customers
+Katherine Ducich,42,21,11696,2428.8306000000002,1,1,2,4,Lost
+Katherine Hughes,2,35,12210,1842.3875,5,4,2,11,Lost
+Katherine Murray,3,33,18522,1451.08384,5,3,4,12,Loyal Customers
+Katherine Nockton,20,32,19669,4145.19254,3,3,4,10,Loyal Customers
+Katrina Bavinger,20,31,14027,618.2365,3,2,3,8,Lost
+Katrina Edelman,27,35,13553,1286.54742,2,4,2,8,At Risk
+Katrina Willman,27,27,15747,3107.0106,2,1,3,6,Lost
+Kean Nguyen,38,34,18064,2257.2164,1,3,4,8,At Risk
+Kean Takahito,44,39,17257,987.5934,1,5,4,10,At Risk
+Kean Thornton,28,27,8362,-617.9192,2,1,1,4,Lost
+Keith Dawkins,47,40,26451,5486.1725,1,5,5,11,At Risk
+Keith Herrera,16,33,16890,2196.8332,3,3,4,10,Loyal Customers
+Kelly Andreada,17,42,18876,1401.39752,3,5,4,12,Loyal Customers
+Kelly Collister,34,32,19401,2358.10316,2,3,4,9,At Risk
+Kelly Lampkin,16,33,14248,738.7484,3,3,3,9,Loyal Customers
+Kelly Williams,23,40,11833,2371.1463,3,5,2,10,Lost
+Ken Black,94,29,16602,1351.0226,1,2,4,7,At Risk
+Ken Brennan,2,36,11465,1046.2450999999999,5,4,1,10,Lost
+Ken Dana,76,27,12553,1750.72552,1,1,2,4,Lost
+Ken Heidel,9,32,9021,1505.97316,4,3,1,8,Lost
+Ken Lonsdale,1,33,24127,154.90049999999988,5,3,5,13,Loyal Customers
+Khloe Miller,16,32,10973,847.8977,3,3,1,7,Lost
+Kimberly Carter,3,26,13923,2144.96274,5,1,2,8,New Customers
+Kristen Hastings,3,46,19856,2370.5742,5,5,4,14,Champions
+Kristina Nunn,99,24,10715,1698.5085000000001,1,1,1,3,Lost
+Kunst Miller,29,26,16968,2759.1905,2,1,4,7,Lost
+Larry Blacks,10,36,14583,1664.49192,4,4,3,11,Loyal Customers
+Larry Hughes,13,27,8693,641.2019000000001,4,1,1,6,New Customers
+Larry Tron,7,34,18619,4213.65294,4,3,4,11,Loyal Customers
+Laura Armstrong,2,46,27864,3962.3098,5,5,5,15,Champions
+Laurel Beltran,40,39,26387,4303.23822,1,5,5,11,At Risk
+Laurel Elliston,15,30,11477,2025.0286,3,2,1,6,Lost
+Laurel Workman,23,31,10873,1148.80494,3,2,1,6,Lost
+Lauren Leatherbury,27,35,14939,894.9398600000001,2,4,3,9,At Risk
+Lela Donovan,43,38,16181,1486.73868,1,5,3,9,At Risk
+Lena Cacioppo,24,29,11078,1176.76826,2,2,1,5,At Risk
+Lena Creighton,17,38,18889,1172.5113000000003,3,5,4,12,Loyal Customers
+Lena Hernandez,22,32,12941,997.38998,3,3,2,8,Lost
+Lena Radford,27,29,22903,3371.71596,2,2,5,9,At Risk
+Linda Cazamias,42,35,16738,2273.42396,1,4,4,9,At Risk
+Linda Southworth,7,32,13145,-67.85193999999993,4,3,2,9,Lost
+Lindsay Castell,3,30,14301,1420.7137,5,2,3,10,Lost
+Lindsay Shagiari,21,27,9366,1778.0724,3,1,1,5,Lost
+Lindsay Williams,15,34,10982,1486.9264,3,3,1,7,Lost
+Lisa DeCherney,44,33,11824,1165.43804,1,3,2,6,At Risk
+Lisa Hazard,42,21,9164,1338.0789000000002,1,1,1,3,Lost
+Lisa Ryan,46,35,18799,2449.1383,1,4,4,9,At Risk
+Liz Carlisle,5,30,20127,2847.60982,5,2,5,12,Lost
+Liz MacKendrick,8,22,15531,1868.1509999999998,4,1,3,8,Lost
+Liz Pelletier,41,31,9465,-265.57719999999995,1,2,1,4,At Risk
+Liz Preis,1,30,16611,2122.698,5,2,4,11,Lost
+Liz Thompson,35,32,21217,3146.42816,2,3,5,10,At Risk
+Liz Willingham,34,25,8045,1400.0412000000001,2,1,1,4,Lost
+Logan Currie,14,36,16082,1925.2869600000001,3,4,3,10,Loyal Customers
+Logan Haushalter,76,37,17288,1519.531,1,4,4,9,At Risk
+Lori Olson,3,35,13541,1788.7198,5,4,2,11,Lost
+Luke Foster,23,27,13422,-3644.3475,3,1,2,6,Lost
+Luke Schmidt,16,28,15599,1653.96822,3,1,3,7,Lost
+Luke Weiss,22,29,12051,849.3825400000001,3,2,2,7,Lost
+Lycoris Saunders,5,34,11739,1377.4046799999999,5,3,2,10,Lost
+Lynn Smith,35,30,11713,1498.1314,2,2,2,6,At Risk
+Magdelene Morse,5,31,21226,4380.72512,5,2,5,12,Lost
+Marc Crier,45,39,15988,2113.4819,1,5,3,9,At Risk
+Marc Harrigan,38,28,15401,2316.01286,1,1,3,5,Lost
+Maria Bertelson,2,35,21607,4622.34732,5,4,5,14,Champions
+Maria Etezadi,6,40,26252,3418.5585,5,5,5,15,Champions
+Maria Zettner,22,31,17960,2254.5034,3,2,4,9,Lost
+Maribeth Dona,27,36,17829,1230.6333200000001,2,4,4,10,At Risk
+Maribeth Schnelling,6,39,21681,3529.3421999999996,5,5,5,15,Champions
+Maribeth Yedwab,30,32,16472,3559.5073,2,3,4,9,At Risk
+Marina Lichtenstein,1,32,15555,1284.23268,5,3,3,11,Loyal Customers
+Maris LaWare,34,33,15175,1154.1427999999999,2,3,3,8,At Risk
+Mark Cousins,24,35,16548,2851.25848,2,4,4,10,At Risk
+Mark Haberlin,9,33,11304,1552.0084,4,3,1,8,Lost
+Mark Hamilton,55,37,14724,527.0470200000001,1,4,3,8,At Risk
+Mark Packer,6,30,12987,2172.9781,5,2,2,9,New Customers
+Mark Van Huff,17,32,11518,1810.6390999999999,3,3,1,7,Lost
+Mary O'Rourke,37,29,11126,519.0089,2,2,1,5,At Risk
+Mary Zewe,24,34,16577,1883.04214,2,3,4,9,At Risk
+MaryBeth Skach,16,33,14790,1987.37916,3,3,3,9,Loyal Customers
+Mathew Reese,98,29,21575,3711.2306,1,2,5,8,At Risk
+Matt Abelman,65,28,12447,519.90348,1,1,2,4,Lost
+Matt Collins,10,41,17897,1749.34736,4,5,4,13,Champions
+Matt Collister,52,28,11674,1907.18878,1,1,2,4,Lost
+Matt Connell,50,28,13230,1366.9685,1,1,2,4,Lost
+Matt Hagelstein,24,27,12217,274.89098,2,1,2,5,Lost
+Matthew Clasen,6,38,21805,3643.2892,5,5,5,15,Champions
+Matthew Grinstein,20,22,13017,2205.32168,3,1,2,6,Lost
+Maureen Fritzler,49,32,13529,1420.88584,1,3,2,6,At Risk
+Maureen Gastineau,37,37,20363,741.1927000000001,2,4,5,11,At Risk
+Maureen Gnade,1,32,18326,845.6976000000001,5,3,4,12,Loyal Customers
+Maurice Satty,30,34,10031,1152.74306,2,3,1,6,At Risk
+Max Engle,12,39,9924,673.2612,4,5,1,10,Lost
+Max Jones,22,30,16486,2437.6299,3,2,4,9,Lost
+Max Ludwig,2,35,15534,1837.7616,5,4,3,12,Loyal Customers
+Maxwell Schwartz,35,42,17928,2851.78544,2,5,4,11,At Risk
+Maya Herman,1,35,13592,1470.52944,5,4,2,11,Lost
+Meg O'Connel,7,34,18003,3104.0855,4,3,4,11,Loyal Customers
+Meg Tillman,50,33,15346,793.4146000000001,1,3,3,7,At Risk
+Melanie Seite,5,34,16104,2060.2845,5,3,3,11,Loyal Customers
+Michael Chen,2,35,15939,1213.00542,5,4,3,12,Loyal Customers
+Michael Dominguez,37,33,22427,3772.40044,2,3,5,10,At Risk
+Michael Grace,6,34,14532,-117.61077999999989,5,3,3,11,Loyal Customers
+Michael Granlund,6,30,13185,-999.7799,5,2,2,9,New Customers
+Michael Kennedy,22,42,14447,-210.64000000000004,3,5,3,11,Loyal Customers
+Michael Moore,8,39,21730,2058.909,4,5,5,14,Champions
+Michael Nguyen,9,27,15047,1392.17082,4,1,3,8,Lost
+Michael Oakman,7,17,5464,286.2586,4,1,1,6,New Customers
+Michael Paige,28,47,17796,1632.695,2,5,4,11,At Risk
+Michael Stewart,7,32,17869,1247.3462000000002,4,3,4,11,Loyal Customers
+Michelle Arnett,17,33,11933,1102.67554,3,3,2,8,Lost
+Michelle Ellison,43,28,10708,655.2183200000001,1,1,1,3,Lost
+Michelle Huthwaite,15,28,12851,861.1837,3,1,2,6,Lost
+Michelle Lonsdale,8,26,10367,1962.8392000000001,4,1,1,6,New Customers
+Michelle Moray,16,33,13089,1262.7827,3,3,2,8,Lost
+Michelle Tran,128,31,17779,-1788.0442,1,2,4,7,At Risk
+Mick Brown,12,38,16451,2595.96358,4,5,4,13,Champions
+Mick Crebagga,42,36,12014,336.1498,1,4,2,7,At Risk
+Mick Hernandez,6,33,13275,1488.1886,5,3,2,10,Lost
+Mike Caudle,52,28,9355,796.6315,1,1,1,3,Lost
+Mike Gockenbach,3,27,23378,6458.6762,5,1,5,11,Lost
+Mike Kennedy,23,30,12741,758.5966,3,2,2,7,Lost
+Mike Pelletier,17,42,24216,532.5997000000001,3,5,5,13,Loyal Customers
+Mike Vittorini,8,38,19572,1360.0398,4,5,4,13,Champions
+Mitch Gastineau,2,36,18010,1822.4352999999999,5,4,4,13,Champions
+Mitch Webber,18,36,23070,4086.5403,3,4,5,12,Loyal Customers
+Mitch Willingham,1,30,19008,145.51290000000014,5,2,4,11,Lost
+Monica Federle,8,38,21944,2573.3404,4,5,5,14,Champions
+Muhammed Lee,9,35,15851,2314.36396,4,4,3,11,Loyal Customers
+Muhammed MacIntyre,13,35,10720,2166.4666,4,4,1,9,Lost
+Muhammed Yedwab,1,39,29644,2642.6540800000002,5,5,5,15,Champions
+Nancy Lomonaco,26,27,10840,-566.9291000000001,2,1,1,4,Lost
+Naresj Patel,2,33,13118,1804.326,5,3,2,10,Lost
+Nat Carroll,6,31,16613,-460.87737999999996,5,2,4,11,Lost
+Nat Gilpin,49,28,12015,2806.44286,1,1,2,4,Lost
+Natalie DeCherney,13,29,13709,2620.28132,4,2,2,8,New Customers
+Natalie Fritzler,2,43,31778,1542.8211000000001,5,5,5,15,Champions
+Natalie Webber,118,33,22374,3821.53806,1,3,5,9,At Risk
+Nathan Cano,40,24,10759,-724.9872,1,1,1,3,Lost
+Nathan Gelder,19,36,22721,4211.22484,3,4,5,12,Loyal Customers
+Nathan Mautz,31,41,24278,5789.1168,2,5,5,12,At Risk
+Neil Ducich,6,32,14780,3168.85352,5,3,3,11,Loyal Customers
+Neil Französisch,7,29,12649,2920.0567,4,2,2,8,New Customers
+Neil Knudson,27,28,13875,3040.5326999999997,2,1,2,5,Lost
+Neola Schneider,7,30,15801,-687.4442600000001,4,2,3,9,Lost
+Neoma Murray,20,28,13872,3142.6994999999997,3,1,2,6,Lost
+Nick Crebassa,7,29,12302,1335.378,4,2,2,8,New Customers
+Nick Radford,3,34,12891,1669.96578,5,3,2,10,Lost
+Nick Zandusky,86,30,20271,2091.27572,1,2,5,8,At Risk
+Nicole Brennan,429,17,5935,-691.4278,1,1,1,3,Lost
+Nicole Fjeld,12,27,12268,1371.54862,4,1,2,7,New Customers
+Nicole Hansen,6,28,21304,4075.4649,5,1,5,11,Lost
+Noah Childs,21,31,17346,2262.91458,3,2,4,9,Lost
+Noel Staavos,37,45,16643,818.7196,2,5,4,11,At Risk
+Nona Balk,20,27,10082,1453.4044999999999,3,1,1,5,Lost
+Nora Paige,59,25,15714,3035.66246,1,1,3,5,Lost
+Nora Pelletier,15,34,16358,1559.0269,3,3,3,9,Loyal Customers
+Nora Preis,29,33,15921,375.5511999999999,2,3,3,8,At Risk
+Odella Nelson,48,38,19273,2783.30724,1,5,4,10,At Risk
+Olvera Toch,34,36,19759,1831.00136,2,4,4,10,At Risk
+Pamela Coakley,3,26,11940,-420.10256,5,1,2,8,New Customers
+Pamela Stobb,30,33,17635,1293.1114000000002,2,3,4,9,At Risk
+Parhena Norris,16,38,12893,2205.4628199999997,3,5,2,10,Lost
+Patricia Hirasaki,58,27,11182,2743.6261,1,1,1,3,Lost
+Patrick Bzostek,9,28,14858,1743.07944,4,1,3,8,Lost
+Patrick Gardner,21,41,16481,1975.1888999999999,3,5,4,12,Loyal Customers
+Patrick Jones,40,25,14442,4019.1325,1,1,3,5,Lost
+Patrick O'Brill,5,45,26712,3778.3637,5,5,5,15,Champions
+Patrick O'Donnell,1,41,24025,4618.1191,5,5,5,15,Champions
+Patrick Ryan,26,34,14330,409.1254200000001,2,3,3,8,At Risk
+Paul Gonzalez,3,34,15922,1620.1805,5,3,3,11,Loyal Customers
+Paul Knutson,99,20,8232,-308.48944000000006,1,1,1,3,Lost
+Paul Lucas,16,23,15015,2006.5049,3,1,3,7,Lost
+Paul MacIntyre,22,32,14346,1178.3952,3,3,3,9,Loyal Customers
+Paul Prost,15,33,22247,2687.733,3,3,5,11,Loyal Customers
+Paul Stevenson,28,37,19620,1834.19372,2,4,4,10,At Risk
+Paul Van Hugh,9,34,18932,4055.5694,4,3,4,11,Loyal Customers
+Pauline Chand,22,22,10633,833.3308999999999,3,1,1,5,Lost
+Pauline Johnson,20,30,15845,2102.4930600000002,3,2,3,8,Lost
+Pauline Webber,8,38,13888,1944.80136,4,5,2,11,Lost
+Penelope Sewall,21,33,30083,4338.8111,3,3,5,11,Loyal Customers
+Pete Armstrong,24,27,10395,1555.35456,2,1,1,4,Lost
+Pete Kriz,9,32,18657,1664.5781,4,3,4,11,Loyal Customers
+Pete Takahito,3,30,13054,609.7002,5,2,2,9,New Customers
+Peter Bühler,1,20,9897,1936.1847,5,1,1,7,New Customers
+Peter Fuller,84,38,29876,1063.2913599999997,1,5,5,11,At Risk
+Peter McVee,13,28,11288,1018.6375999999999,4,1,1,6,New Customers
+Philip Brown,6,43,11386,1271.84916,5,5,1,11,Lost
+Philip Fox,35,43,18031,1908.8786,2,5,4,11,At Risk
+Philisse Overcash,30,33,17984,2175.7896,2,3,4,9,At Risk
+Phillina Ober,34,29,19099,-1026.1020199999998,2,2,4,8,At Risk
+Phillip Breyer,9,34,24269,1403.958,4,3,5,12,Loyal Customers
+Phillip Flathmann,3,37,13392,940.8555000000001,5,4,2,11,Lost
+Pierre Wener,2,31,8422,1942.2988,5,2,1,8,New Customers
+Quincy Jones,26,28,18585,2243.1929,2,1,4,7,Lost
+Rachel Payne,8,32,14998,1902.7221,4,3,3,10,Loyal Customers
+Ralph Arnett,6,38,23044,2613.0752,5,5,5,15,Champions
+Ralph Kennedy,29,30,13998,-1555.7894199999998,2,2,3,7,At Risk
+Ralph Ritter,20,25,13584,2838.98338,3,1,2,6,Lost
+Randy Bradley,16,40,22898,4151.35242,3,5,5,13,Loyal Customers
+Randy Ferguson,7,32,16598,3093.9550000000004,4,3,4,11,Loyal Customers
+Raymond Buch,21,29,29601,8453.0495,3,2,5,10,Lost
+Raymond Messe,10,32,18317,1855.40302,4,3,4,11,Loyal Customers
+Resi Pölking,16,41,22053,1068.3838,3,5,5,13,Loyal Customers
+Ricardo Emerson,29,27,14039,2643.68018,2,1,3,6,Lost
+Ricardo Sperren,34,35,14432,1823.65088,2,4,3,9,At Risk
+Richard Bierner,20,34,14797,-1125.65658,3,3,3,9,Loyal Customers
+Richard Eichhorn,16,30,16340,2391.41164,3,2,3,8,Lost
+Rick Bensley,1,39,20854,4066.46,5,5,5,15,Champions
+Rick Duston,1,33,17546,3587.4449,5,3,4,12,Loyal Customers
+Rick Hansen,25,31,16356,1850.8903,2,2,3,7,At Risk
+Rick Huthwaite,21,32,13438,1664.66446,3,3,2,8,Lost
+Rick Reed,1,34,16382,-47.98279999999996,5,3,4,12,Loyal Customers
+Rick Wilson,27,32,25125,5177.4288,2,3,5,10,At Risk
+Ritsa Hightower,8,29,17695,2002.8037,4,2,4,10,Lost
+Rob Beeghly,21,30,11549,1495.9239,3,2,2,7,Lost
+Rob Dowd,26,38,21482,3919.9697,2,5,5,12,At Risk
+Rob Haberlin,7,29,7970,1222.37166,4,2,1,7,New Customers
+Rob Lucas,121,31,17289,2703.98888,1,2,4,7,At Risk
+Rob Williams,78,28,9988,2252.2208,1,1,1,3,Lost
+Robert Barroso,151,25,6256,640.1234,1,1,1,3,Lost
+Robert Dilbeck,28,30,16344,3965.8731,2,2,3,7,At Risk
+Robert Marley,5,27,12868,2542.2423,5,1,2,8,New Customers
+Robert Waldorf,16,33,12596,2137.0023,3,3,2,8,Lost
+Roger Barcio,17,28,15304,2879.5411,3,1,3,7,Lost
+Roger Demir,22,38,14738,3037.0109,3,5,3,11,Loyal Customers
+Roland Fjeld,2,26,13090,1123.5285,5,1,2,8,New Customers
+Roland Murray,17,26,7403,1250.33376,3,1,1,5,Lost
+Roland Schwarz,37,31,15108,3472.16638,2,2,3,7,At Risk
+Rose O'Brian,5,38,21912,868.8818999999999,5,5,5,15,Champions
+Ross Baird,31,40,19314,2350.5301400000003,2,5,4,11,At Risk
+Ross DeVincentis,15,37,10302,1939.89446,3,4,1,8,Lost
+Roy Collins,119,26,7956,737.7457,1,1,1,3,Lost
+Roy Französisch,7,37,15652,2841.73178,4,4,3,11,Loyal Customers
+Roy Phan,22,33,14610,138.85420000000005,3,3,3,9,Loyal Customers
+Roy Skaria,20,28,8121,1463.42858,3,1,1,5,Lost
+Ruben Ausman,44,31,15939,3320.46868,1,2,3,6,At Risk
+Ruben Dartt,33,39,18320,3330.6742,2,5,4,11,At Risk
+Russell Applegate,13,29,21398,2164.19772,4,2,5,11,Lost
+Russell D'Ascenzo,29,33,15819,1230.36572,2,3,3,8,At Risk
+Ryan Akin,2,32,13742,896.7278,5,3,2,10,Lost
+Ryan Crowe,23,27,9539,2124.0154,3,1,1,5,Lost
+Sally Hughsby,26,37,18951,1795.36144,2,4,4,10,At Risk
+Sally Knutson,9,26,13292,2975.51382,4,1,2,7,New Customers
+Sally Matthias,105,30,13063,1528.3608,1,2,2,5,At Risk
+Sam Craven,9,38,11056,1116.0096,4,5,1,10,Lost
+Sam Zeldin,14,41,16361,2915.8473,3,5,3,11,Loyal Customers
+Sample Company A,41,37,19129,18.425320000000013,1,4,4,9,At Risk
+Sandra Flanagan,59,29,11259,1865.6513,1,2,1,4,At Risk
+Sandra Glassco,4,23,11853,2883.7084,5,1,2,8,New Customers
+Sanjit Chand,76,35,26524,8205.3799,1,4,5,10,At Risk
+Sanjit Engle,10,39,30143,6015.78392,4,5,5,14,Champions
+Sanjit Jacobs,33,39,13521,1828.0039,2,5,2,9,At Risk
+Saphhira Shifley,16,39,23632,-612.3282600000003,3,5,5,13,Loyal Customers
+Sara Luxemburg,30,46,16827,1899.9305000000002,2,5,4,11,At Risk
+Sarah Bern,3,20,14603,2366.9597999999996,5,1,3,9,Lost
+Sarah Brown,75,38,22300,1668.65412,1,5,5,11,At Risk
+Sarah Foster,6,36,15659,829.7639999999999,5,4,3,12,Loyal Customers
+Sarah Jordon,29,41,16070,2511.86098,2,5,3,10,At Risk
+Scot Coram,17,28,22129,3071.368,3,1,5,9,Lost
+Scot Wooten,13,30,15479,1948.35962,4,2,3,9,Lost
+Scott Cohen,1,33,12537,1222.6707999999999,5,3,2,10,Lost
+Scott Williamson,22,38,17044,1044.1871999999998,3,5,4,12,Loyal Customers
+Sean Braxton,42,27,20514,-1896.9793,1,1,5,7,Lost
+Sean Christensen,17,33,20907,462.27869999999996,3,3,5,11,Loyal Customers
+Sean Miller,22,28,35170,-409.70634000000007,3,1,5,9,Lost
+Sean O'Donnell,30,31,16366,2407.04362,2,2,3,7,At Risk
+Sean Wendt,13,30,8168,1031.54774,4,2,1,7,New Customers
+Seth Vernon,88,36,23640,2222.7536800000003,1,4,5,10,At Risk
+Shahid Collister,31,41,17678,1692.37974,2,5,4,11,At Risk
+Shahid Hopkins,24,37,12979,1059.23294,2,4,2,8,At Risk
+Shahid Shariari,27,37,18107,131.5111800000001,2,4,4,10,At Risk
+Sharelle Roach,9,24,13005,-2551.18846,4,1,2,7,New Customers
+Shaun Chance,10,29,9610,357.01936,4,2,1,7,New Customers
+Shaun Weien,8,31,8247,1163.569,4,2,1,7,New Customers
+Sheri Gordon,91,31,13818,2338.9888,1,2,2,5,At Risk
+Shirley Daniels,16,40,17959,3647.2210999999998,3,5,4,12,Loyal Customers
+Shirley Jackson,176,29,13385,1581.8093,1,2,2,5,At Risk
+Shirley Schmidt,1,22,7903,416.34612,5,1,1,7,New Customers
+Shui Tom,7,38,15006,2234.10296,4,5,3,12,Loyal Customers
+Sibella Parks,17,24,7221,749.227,3,1,1,5,Lost
+Skye Norling,14,31,14225,-2637.9805,3,2,3,8,Lost
+Sonia Cooley,28,35,10012,938.0015999999999,2,4,1,7,At Risk
+Sonia Sunley,6,29,13118,2370.1265,5,2,2,9,New Customers
+Speros Goranitis,76,38,12948,1541.10256,1,5,2,8,At Risk
+Stefania Perrino,6,36,19418,17.04149999999992,5,4,4,13,Champions
+Stefanie Holloman,31,29,14205,1978.1796000000002,2,2,3,7,At Risk
+Stephanie Phelps,21,30,11151,1682.80564,3,2,1,6,Lost
+Stephanie Ulpright,5,29,10779,510.2519,5,2,1,8,New Customers
+Steve Carroll,22,35,19823,1708.7930800000001,3,4,4,11,Loyal Customers
+Steve Chapman,10,39,23401,2165.6836,4,5,5,14,Champions
+Steve Nguyen,45,28,13404,2384.85126,1,1,2,4,Lost
+Steven Cartwright,8,37,16918,2066.03938,4,4,4,12,Champions
+Steven Roelle,22,37,19374,4387.3584,3,4,4,11,Loyal Customers
+Steven Ward,16,38,25669,2794.7316,3,5,5,13,Loyal Customers
+Stewart Carmichael,41,39,16529,318.0876800000001,1,5,4,10,At Risk
+Stewart Visinsky,22,34,17232,2182.7873,3,3,4,10,Loyal Customers
+Stuart Calhoun,31,26,11409,1276.3538,2,1,1,4,Lost
+Stuart Van,9,33,22308,978.6733800000001,4,3,5,12,Loyal Customers
+Sue Ann Reed,11,40,16494,1354.7027600000001,4,5,4,13,Champions
+Sung Chung,9,28,11265,1696.6987199999999,4,1,1,6,New Customers
+Sung Pak,55,28,13496,1750.68106,1,1,2,4,Lost
+Sung Shariari,15,25,5331,-559.9772,3,1,1,5,Lost
+Susan Gilcrest,17,28,12686,541.3085599999999,3,1,2,6,Lost
+Susan MacKendrick,38,22,8634,1528.2749000000001,1,1,1,3,Lost
+Susan Pistek,7,32,29020,6484.40726,4,3,5,12,Loyal Customers
+Susan Vittorini,1,31,15689,668.4789000000001,5,2,3,10,Lost
+Suzanne McNair,26,38,12888,1170.85834,2,5,2,9,At Risk
+Sylvia Foulston,49,23,9257,1895.183,1,1,1,3,Lost
+Tamara Chand,28,36,37453,8672.8989,2,4,5,11,At Risk
+Tamara Dahlen,1,28,7704,-948.1228,5,1,1,7,New Customers
+Tamara Manning,65,30,14461,1928.1339,1,2,3,6,At Risk
+Tamara Willingham,20,35,14256,3275.0801,3,4,3,10,Loyal Customers
+Tanja Norvell,23,31,9595,-706.1821600000001,3,2,1,6,Lost
+Ted Butterfield,36,32,16030,1559.26902,2,3,3,8,At Risk
+Ted Trevino,15,33,17245,2320.3586,3,3,4,10,Loyal Customers
+Thais Sissman,42,27,6787,1109.5608,1,1,1,3,Lost
+Thea Hendricks,7,31,15541,1952.4961,4,2,3,9,Lost
+Thea Hudgings,44,31,15353,2265.68778,1,2,3,6,At Risk
+Theone Pippenger,3,43,23965,2073.88638,5,5,5,15,Champions
+Theresa Coyne,12,35,22219,3359.81226,4,4,5,13,Champions
+Theresa Swint,9,27,7936,1134.0224,4,1,1,6,New Customers
+Thomas Boland,40,31,17427,2286.4019,1,2,4,7,At Risk
+Thomas Brumley,50,21,11805,2052.3113200000003,1,1,2,4,Lost
+Thomas Seio,27,35,14530,2349.54862,2,4,3,9,At Risk
+Thomas Thornton,6,31,15055,1661.20726,5,2,3,10,Lost
+Tiffany House,9,36,16804,1656.2869999999998,4,4,4,12,Champions
+Tim Brockman,2,43,19103,3065.7062,5,5,4,14,Champions
+Tim Taslimi,2,29,9780,1284.8362,5,2,1,8,New Customers
+Toby Braunhardt,58,35,11699,1247.46136,1,4,2,7,At Risk
+Toby Carlisle,13,34,20126,1497.4768000000001,4,3,5,12,Loyal Customers
+Toby Gnade,15,35,13021,2986.457,3,4,2,9,Lost
+Toby Ritter,2,26,12427,2436.90546,5,1,2,8,New Customers
+Toby Swindell,9,36,18632,2602.96458,4,4,4,12,Champions
+Todd Boyes,15,28,9647,772.014,3,1,1,5,Lost
+Todd Sumrall,19,37,27775,5093.9654,3,4,5,12,Loyal Customers
+Tom Ashbrook,9,30,40489,6311.9791,4,2,5,11,Lost
+Tom Boeckenhauer,26,35,24480,4196.3499,2,4,5,11,At Risk
+Tom Prescott,49,26,12874,346.1872200000001,1,1,2,4,Lost
+Tom Stivers,20,29,15345,2364.9883,3,2,3,8,Lost
+Tom Zandusky,9,35,15348,367.4914000000001,4,4,3,11,Loyal Customers
+Tonja Turnell,13,40,20085,2230.7893599999998,4,5,5,14,Champions
+Tony Chapman,2,38,12633,1401.12856,5,5,2,12,Lost
+Tony Molinari,41,35,15973,1500.9713,1,4,3,8,At Risk
+Tony Sayre,12,31,19734,2149.3462,4,2,4,10,Lost
+Tracy Blumstein,19,45,20704,257.36161999999985,3,5,5,13,Loyal Customers
+Tracy Collins,1,34,11099,382.99710000000005,5,3,1,9,Lost
+Tracy Hopkins,6,31,13095,-733.7475000000003,5,2,2,9,New Customers
+Tracy Poddar,15,35,13289,1795.66,3,4,2,9,Lost
+Tracy Zic,36,24,10860,-80.11549999999995,2,1,1,4,Lost
+Troy Blackwell,29,30,9187,1438.6508999999999,2,2,1,5,At Risk
+Troy Staebel,21,35,22579,1719.5679,3,4,5,12,Loyal Customers
+Trudy Brown,31,36,15078,1500.6631,2,4,3,9,At Risk
+Trudy Glocke,6,42,18883,3096.2398,5,5,4,14,Champions
+Trudy Schmidt,85,30,9980,1025.6195,1,2,1,4,At Risk
+Valerie Dominguez,1,30,15987,2031.9158,5,2,3,10,Lost
+Valerie Mitchum,14,38,14567,-1645.79878,3,5,3,11,Loyal Customers
+Valerie Takahito,8,32,19368,1090.7832,4,3,4,11,Loyal Customers
+Vicky Freymann,14,28,12600,26.11299999999992,3,1,2,6,Lost
+Victor Preis,29,33,12063,2232.7958,2,3,2,7,At Risk
+Victoria Brennan,5,25,10745,908.5638,5,1,1,7,New Customers
+Victoria Pisteka,76,31,18554,2390.8627,1,2,4,7,At Risk
+Victoria Wilson,7,35,17039,294.38090000000005,4,4,4,12,Champions
+Vivek Gonzalez,111,31,10296,-364.4246999999999,1,2,1,4,At Risk
+Vivek Grady,3,27,23767,4046.90616,5,1,5,11,Lost
+Vivek Sundaresam,23,22,11413,1586.6187,3,1,1,5,Lost
+Vivian Mathis,9,23,3891,656.9143,4,1,1,6,New Customers
+William Brown,21,40,16886,2547.9023,3,5,4,12,Loyal Customers
+Xylona Preis,44,30,12202,1304.7226,1,2,2,5,At Risk
+Yana Sorensen,5,32,20034,3450.4063,5,3,5,13,Loyal Customers
+Yoseph Carroll,5,31,20165,4347.1766,5,2,5,12,Lost
+Zuschuss Carroll,4,38,28485,436.93626,5,5,5,15,Champions
+Zuschuss Donatelli,2,29,12434,201.73710000000005,5,2,2,9,New Customers

@@ -51,7 +51,8 @@ SELECT TOP 10 * FROM orders;
 
 
 --
-SELECT market,category,
+CREATE OR ALTER VIEW v_market_summary AS
+SELECT market,category,year,sub_category,
 COUNT(DISTINCT order_id) AS total_orders,
 COUNT(DISTINCT customer_name) AS total_customers,
 SUM(profit) AS total_profit,
@@ -61,7 +62,7 @@ ROUND(AVG(discount),5) AS avg_discount,
 ROUND(SUM(CAST(is_loss AS float)) / NULLIF(COUNT(*), 0),5) AS loss_rate,
 ROUND(SUM(sales)/NULLIF(COUNT(DISTINCT order_id),0),2) AS aov
 FROM orders 
-GROUP BY  market,category
+GROUP BY  market,category,year,sub_category
 
 
 
