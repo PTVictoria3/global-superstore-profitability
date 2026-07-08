@@ -50,19 +50,6 @@ WITH (
 SELECT TOP 10 * FROM orders;
 
 
---
-CREATE OR ALTER VIEW v_market_summary AS
-SELECT market,category,year,sub_category,
-COUNT(DISTINCT order_id) AS total_orders,
-COUNT(DISTINCT customer_name) AS total_customers,
-SUM(profit) AS total_profit,
-SUM(sales) AS total_sales,
-ROUND(SUM(profit)/NULLIF(SUM(sales),0),5) AS profit_margin,
-ROUND(AVG(discount),5) AS avg_discount,
-ROUND(SUM(CAST(is_loss AS float)) / NULLIF(COUNT(*), 0),5) AS loss_rate,
-ROUND(SUM(sales)/NULLIF(COUNT(DISTINCT order_id),0),2) AS aov
-FROM orders 
-GROUP BY  market,category,year,sub_category
 
 
 
@@ -83,36 +70,64 @@ GROUP BY  market,category,year,sub_category
 
 
 
--- Phân tích RFM
+
+
+--  Sub-category nào, ở market nào, có sales cao nhưng đang lỗ?
+-- Ở mức market x category không có ô nào lỗ, phải xuống mức sub_category mới thấy
 WITH
-rfm_raw AS(
-	SELECT customer_name,segment,
-	DATEDIFF(DAY,MAX(order_date),(SELECT DATEADD(DAY,1,MAX(order_date))	FROM orders)) AS recency,
-	COUNT(DISTINCT order_id) AS frequency,
-	SUM(sales)	AS monetary
+loss_groups AS(
+	SELECT market,sub_category,
+	SUM(sales) AS total_sales,
+	SUM(profit) AS total_profit,
+	ROUND(SUM(profit)/NULLIF(SUM(sales),0),5) AS profit_margin,
+	ROUND(SUM(CAST(is_loss AS FLOAT))/COUNT(*),5) AS loss_rate
 	FROM orders
-	GROUP BY customer_name,segment),
-rfm_scores AS (
-	SELECT *,
-	NTILE(5) OVER(ORDER BY recency DESC)  AS r_score,
-	NTILE(5) OVER(ORDER BY frequency DESC) AS f_score,
-	NTILE(5) OVER(ORDER BY monetary DESC) AS m_score
-	FROM rfm_raw )
-SELECT customer_name,segment,recency,frequency,monetary,r_score,f_score,m_score
-
-FROM rfm_scores
-ORDER BY monetary DESC
+	GROUP BY market,sub_category
+	HAVING SUM(profit) < 0
+)
+SELECT *,
+SUM(total_profit) OVER(ORDER BY total_profit ASC) AS cumulative_loss
+FROM loss_groups
+ORDER BY total_profit ASC
 
 
 
--- Ở mức giảm giá nào thì lợi nhuận âm
+--Ở mức giảm giá nào thì lợi nhuận âm
 SELECT
 ROUND(discount,1) AS discount_range,
 COUNT(*) AS order_lines,
-AVG(profit_margin) AS avg_profit_margin,
 SUM(profit)/NULLIF(SUM(sales),0) AS agg_profit_margin,
 SUM(CAST(is_loss AS FLOAT))/COUNT(*) AS loss_rate
-
 FROM orders
 GROUP BY ROUND(discount,1)
 ORDER BY discount_range
+
+
+
+-- So sánh trong cùng sub_category và cùng market
+-- Nhìn tổng thể chưa đủ vì discount cao thường rơi vào sản phẩm/thị trường vốn đã lỗ,
+-- so sánh trong cùng nhóm mới tách được tác động của discount
+SELECT market,sub_category,discount_level,
+COUNT(*) AS order_lines,
+ROUND(SUM(profit)/NULLIF(SUM(sales),0),5) AS profit_margin,
+ROUND(SUM(CAST(is_loss AS FLOAT))/COUNT(*),5) AS loss_rate
+FROM orders
+GROUP BY market,sub_category,discount_level
+ORDER BY market,sub_category,
+CASE discount_level WHEN 'No' THEN 1 WHEN 'Low' THEN 2 WHEN 'Medium' THEN 3 ELSE 4 END
+
+
+
+--  Đơn Critical có được giao nhanh hơn không và nhanh hơn đó tốn thêm bao nhiêu?
+SELECT order_priority,ship_mode,
+COUNT(*) AS order_lines,
+ROUND(AVG(CAST(shipping_days AS FLOAT)),2) AS avg_shipping_days,
+ROUND(AVG(shipping_cost),2) AS avg_shipping_cost,
+ROUND(SUM(shipping_cost)/NULLIF(SUM(sales),0),5) AS shipping_cost_ratio
+FROM orders
+GROUP BY order_priority,ship_mode
+ORDER BY CASE order_priority WHEN 'Critical' THEN 1 WHEN 'High' THEN 2 WHEN 'Medium' THEN 3 ELSE 4 END,
+AVG(CAST(shipping_days AS FLOAT))
+
+
+
