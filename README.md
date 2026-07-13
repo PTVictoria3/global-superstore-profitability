@@ -28,9 +28,9 @@ Global Superstore là dữ liệu bán hàng của một chuỗi bán lẻ hoạ
 
 ## Dashboard
 
-![Tổng quan](image.png)
-![Phân tích lợi nhuận](image.png)
-![Vận chuyển](image-2.png)
+![Tổng quan](assets/tongquan.png)
+![Phân tích lợi nhuận](assets/phantichloinhuan.png)
+![Vận chuyển](assets/vanchuyen.png)
 
 
 ## Kiến trúc
@@ -39,4 +39,4 @@ Global Superstore là dữ liệu bán hàng của một chuỗi bán lẻ hoạ
 
 ## Cấu trúc thư mục
 
-![Cấu trúc thư mục](image.png)
+![Cấu trúc thư mục](assets/cautructhumuc.png)
