@@ -1,4 +1,4 @@
-# Global Superstore — Phân tích lợi nhuận
+# Global Superstore — Dự án phân tích lợi nhuận
 
 SQL · Python · Power BI
 
@@ -29,13 +29,15 @@ Global Superstore là dữ liệu bán hàng của một chuỗi bán lẻ hoạ
 ## Dashboard
 
 ![Tổng quan](assets/tongquan.png)
+
 ![Phân tích lợi nhuận](assets/phantichloinhuan.png)
+
 ![Vận chuyển](assets/vanchuyen.png)
 
 
 ## Kiến trúc
 
-![Kiến trúc](assets/kientruc.png)
+![Kiến trúc](assets/Kientruc.png)
 
 ## Cấu trúc thư mục
 
